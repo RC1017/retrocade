@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1",
+    "title": "Tag",
+    "description": "A fast-paced local multiplayer game of tag! Run, jump, and dodge to avoid being 'it' in this classic playground game brought to your screen.",
+    "thumbnail": "https://taggame.io/data/image/options/tag-game-banner-tgio.png",
+    "iframeUrl": "https://quiz-50.github.io/action-games/tag/"
+  }
+]
